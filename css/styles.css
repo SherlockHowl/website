@@ -28,15 +28,26 @@ html {
 	 padding: 0px;
 	 position: absolute;
 	 transform: all 0.3s;
-	 background: white;
+	 background: #FFD700;
 	 z-index: 9;
 	 top: 0px;
 	 width: 100%;
 }
+.tight {
+	 float:left;
+	 margin-right: 10px;
+	 margin-bottom: 5px;
+	 border:solid black 1px;
+	 padding: 2px;
+
+}
 .info {
-	background-color: yellow;
+	float: right;
+	background-color: none;
 	width: 50%;
-	
+	margin-right:150px;
+	font-style: italic;
+	font-size:29px;
 
 }
 
